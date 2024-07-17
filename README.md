@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate data science enthusiast currently
 ### [Daily LeetCode DSA Questions](https://github.com/Tharun2104/LeetCode_Problems)
 I tackle a new LeetCode Data Structures and Algorithms problem every day to sharpen my problem-solving skills. Check out my solutions and feel free to contribute!
 
-### [Diabetes Prediction]([https://github.com/Tharun2104/diabetes-prediction](https://github.com/Tharun2104/Diabetes_prediction_May_2024))
+### [Diabetes Prediction]([https://github.com/Tharun2104/Diabetes_prediction_May_2024])
 - **Technologies:** Python, SQLite3, Pandas, MLFlow, Docker, Flask, Streamlit
 - **Description:** Created a comprehensive diabetes prediction model, performed extensive EDA, and deployed an interactive Streamlit app for real-time predictions.
 
