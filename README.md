@@ -1,14 +1,14 @@
 <h1 align="center">Hello, I'm Tharun! 👋</h1>
 
 <p align="center">
-Welcome to my GitHub profile! I'm a passionate data science enthusiast currently pursuing a Master’s in Engineering Science (Data Science) at the State University of New York at Buffalo. I have honed my skills in data analysis, machine learning, and software development through various academic and professional experiences.
+Welcome to my GitHub profile! I'm a passionate data science enthusiast currently pursuing a Master’s in Data Science at the State University of New York at Buffalo. I have honed my skills in data analysis, machine learning, and software development through various academic and professional experiences.
 </p>
 
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
   📊 Data Scientist with a knack for solving complex problems.<br>
-  💼 Former Software Engineer at LTIMindtree with extensive experience in SDLC and STLC.<br>
+  💼 Former Software Engineer at LTIMindtree.<br>
   📈 Proficient in Python, SQL, R, and Java, with a deep understanding of machine learning frameworks such as TensorFlow and PyTorch.<br>
   🌱 Continuously learning and exploring new technologies to stay at the forefront of the data science field.
 </p>
@@ -35,6 +35,8 @@ Welcome to my GitHub profile! I'm a passionate data science enthusiast currently
 
 </p>
 
+<!--
+
 <h2 align="center">📚 Projects</h2>
 
 ### [Daily LeetCode DSA Questions](https://github.com/Tharun2104/leetcode-dsa)
@@ -51,14 +53,14 @@ I tackle a new LeetCode Data Structures and Algorithms problem every day to shar
 ### [Image Quality Assessment](https://github.com/Tharun2104/image-quality-assessment)
 - **Technologies:** Python, Scikit-learn, Streamlit
 - **Description:** Built a classifier to evaluate image sharpness and launched a Streamlit app to assess image quality factors like blur, brightness, and contrast.
-
+-->
 <h2 align="center">📫 Let's Connect!</h2>
 <p align="center">
   📧 Email: <a href="mailto:tharunmogili09@gmail.com">tharunmogili09@gmail.com</a><br>
   💼 LinkedIn: <a href="https://linkedin.com/in/tharuntejamogili">linkedin.com/in/tharuntejamogili</a><br>
 </p>
 
-<p align="center">Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's build something amazing together!</p>
+<p align="center">Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.</p>
 
 <!--
 # Hello, I'm Tharun Teja Mogili! 👋
