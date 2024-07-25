@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate data science enthusiast currently
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  📊 Data Scientist with a knack for solving complex problems.<br>
+<!--   📊 Data Scientist with a knack for solving complex problems.<br> -->
   💼 Former Software Engineer at LTIMindtree.<br>
   📈 Proficient in Python, SQL, R, and Java, with a deep understanding of machine learning frameworks such as TensorFlow and PyTorch.<br>
   🌱 Continuously learning and exploring new technologies to stay at the forefront of the data science field.
