@@ -128,7 +128,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hello 👋, I'm Tharun Teja Mogili</h1>
-<h3 align="center">Software Engineer & Machine Learning Specialist</h3>
+<h3 align="center">Software Engineer & Machine Learning Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/tharuntejamogili" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -192,6 +192,10 @@ Currently pursuing MS in Data Science @ University at Buffalo. Passionate about 
 - Created reusable Selenium components in Java
 - Tech: Java, Selenium, Jenkins, MLflow
 
+
+- 🔗 Portfolio: [tharun.dev](https://...) *(work in progress)*
+
+
 ---
 -->
 
@@ -208,7 +212,6 @@ Currently pursuing MS in Data Science @ University at Buffalo. Passionate about 
 ---
 
 ### 📫 Let's Connect!
-- 🔗 Portfolio: [tharun.dev](https://...) *(work in progress)*
 - 📧 Email: [tharunmogili09@gmail.com](mailto:tharunmogili09@gmail.com)
 - 💼 LinkedIn: [Let's network!](https://linkedin.com/in/tharuntejamogili)
 
