@@ -145,7 +145,7 @@ Experienced Software Engineer with **3+ years** in:
 - Building scalable microservices
 - AI/ML automation & optimization
 
-Currently pursuing MS in Data Science @ University at Buffalo. Passionate about developing intelligent systems that combine robust engineering with machine learning.
+Currently pursuing MS in Computer Science @ University at Buffalo. Passionate about developing intelligent systems that combine robust engineering with machine learning.
 
 ---
 
@@ -205,7 +205,7 @@ Currently pursuing MS in Data Science @ University at Buffalo. Passionate about 
   - Optimized API response times by 65% through query optimization
   - Automated CI/CD pipelines reducing deployment errors by 30%
 
-- **University at Buffalo** | MS Data Science (2023-2025)
+- **University at Buffalo** | MS Computer Science (2023-2025)
   - Coursework: Statistical Learning and Data Mining, Machine Learning, Deep Learning, Data Structures and Algorithms, Numerical Mathematics, Data Intensive Computing, Data Models and Query Languages, Computer Vision
   - GPA: 4.0/4.0
 
