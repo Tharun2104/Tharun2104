@@ -125,7 +125,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <h1 align="center">Hello 👋, I'm Tharun Teja Mogili</h1>
 <h3 align="center">Software Engineer & Machine Learning Enthusiast</h3>
@@ -197,7 +197,7 @@ Currently pursuing MS in Computer Science @ University at Buffalo. Passionate ab
 
 
 ---
--->
+
 
 ### 📈 Career Highlights
 - **LTIMindtree** | Software Engineer (2021-2023)
@@ -208,8 +208,114 @@ Currently pursuing MS in Computer Science @ University at Buffalo. Passionate ab
 - **University at Buffalo** | MS Computer Science (2023-2025)
   - Coursework: Statistical Learning and Data Mining, Machine Learning, Deep Learning, Data Structures and Algorithms, Numerical Mathematics, Data Intensive Computing, Data Models and Query Languages, Computer Vision
   - GPA: 4.0/4.0
+  
+ -->
+
+
+
+
+----------
+
+
+
+<h1 align="center">Hi, I'm Tharun Teja Mogili 👋</h1>
+<h3 align="center">Software Engineer | Backend & Full Stack Developer | ML Enthusiast</h3>
+
+<p align="center">
+  <a href="mailto:tharun.mogili2025@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tharuntejamogili/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/Tharun256/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+</p>
 
 ---
+
+### 🚀 About Me
+
+- 👨‍💻 Software Engineer with 3+ years of experience building scalable backend and full-stack systems using **Java, Spring Boot, React, AWS, and Microservices**
+- 🎓 MS in Computer Science @ **University at Buffalo**, GPA: **4.0/4.0**
+- 🤖 Hands-on ML project work using **Python, TensorFlow, PyTorch, Kafka**
+- 🔍 Strong in **system design, API security, distributed systems, and CI/CD pipelines**
+- 🧠 Actively solving **LeetCode DSA problems** and contributing to open-source projects
+
+---
+
+### 📈 Career
+
+- 🏢 **LTIMindtree** | Software Engineer (Dec 2022 – Jan 2024)  
+  - Developed Spring Boot microservices and REST APIs for intelligent document processing (IDP)  
+  - Built AWS-based pipeline using Textract, S3, Lambda—reduced manual effort by 60%, saving $500K/year  
+  - Delivered a data validation framework and policy recommendation system to speed up claims processing 3x  
+
+- 🏢 **Larsen & Toubro Infotech (LTI)** | Software Engineer (Jan 2021 – Dec 2022)  
+  - Developed full-stack insurance modules using Java, Spring Boot, React.js, and MySQL  
+  - Secured APIs using OAuth 2.0 & JWT, improving system reliability and reducing access issues  
+  - Automated CI/CD pipeline using Jenkins, Selenium, and Azure Git—reduced deployment issues by 25%  
+  - Collaborated with 5+ cross-functional teams and resolved 20+ post-release issues in Agile SDLC  
+
+- 🎓 **University at Buffalo**  
+  - **Graduate Teaching Assistant**: Statistical Learning and Data Mining II, Data Models and Query Languages
+  - **Relevant Coursework** : Machine Learning, Deep Learning, Data Structures and Algorithms, Data Models and Query Languages
+  - Built ML & DS projects across NLP, CNNs, and risk prediction  
+  - GPA: **4.0/4.0**
+
+---
+
+### 🛠 Tech Stack
+
+**Languages & Frameworks**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+**Databases & Tools**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Machine Learning & Data**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLFlow-blue?style=for-the-badge&logo=mlflow&logoColor=white)
+
+---
+
+### 📫 Let’s Connect
+
+- 🔗 [LinkedIn](https://linkedin.com/in/tharuntejamogili)
+- 💬 Email: tharun.mogili2025@gmail.com
+- 💻 [LeetCode](https://leetcode.com/Tharun256)
+
+
+*Thanks for visiting my profile! Let’s collaborate and build something impactful 🚀*
+
+
+---
+<!--
+
+### 📚 Featured Projects
+
+- 🔗 [**Real-Time Chat App**](https://github.com/Tharun2104/Full-Stack-Realtime-Chat-App)  
+  Full-stack messaging app using Node.js, React, Socket.IO, JWT, Docker, and AWS.
+
+- 🔗 [**Ticket Booking System**](https://github.com/Tharun2104)  
+  Built with Spring Boot, Angular & React — supports 10K+ concurrent users with transactional integrity.
+
+- 🔗 [**Distributed Pub-Sub System**](https://github.com/Tharun2104/PUB-SUB-System-with-Apache-Kafka-and-Docker-v1.git)  
+  Kafka-based distributed system for game update delivery, designed with Flask, MySQL, Docker.
+
+- 🔗 [**Diabetes Prediction**](https://github.com/Tharun2104/Diabetes_prediction_May_2024)  
+  Deployed ML model for diabetes risk scoring using Streamlit, SQLite, MLflow, Docker.
+
+---
+
 
 ### 📫 Let's Connect!
 - 📧 Email: [tharunmogili09@gmail.com](mailto:tharunmogili09@gmail.com)
@@ -218,3 +324,5 @@ Currently pursuing MS in Computer Science @ University at Buffalo. Passionate ab
 <p align="center"> 
   <i>Open to exciting opportunities at the intersection of software engineering and machine learning!</i> ✨
 </p>
+
+-->
