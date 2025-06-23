@@ -246,7 +246,7 @@ Currently pursuing MS in Computer Science @ University at Buffalo. Passionate ab
   - Built AWS-based pipeline using Textract, S3, Lambda—reduced manual effort by 60%, saving $500K/year  
   - Delivered a data validation framework and policy recommendation system to speed up claims processing 3x  
 
-- 🏢 **Larsen & Toubro Infotech (LTI)** | Software Engineer (Jan 2021 – Dec 2022)  
+- 🏢 **Larsen & Toubro Infotech (LTI)** | Software Engineer (Dec 2020 – Dec 2022)  
   - Developed full-stack insurance modules using Java, Spring Boot, React.js, and MySQL  
   - Secured APIs using OAuth 2.0 & JWT, improving system reliability and reducing access issues  
   - Automated CI/CD pipeline using Jenkins, Selenium, and Azure Git—reduced deployment issues by 25%  
