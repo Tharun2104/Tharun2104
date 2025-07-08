@@ -234,11 +234,13 @@ Currently pursuing MS in Computer Science @ University at Buffalo. Passionate ab
 - 👨‍💻 Software Engineer with 3+ years of experience building scalable backend and full-stack systems using **Java, Spring Boot, React, AWS, and Microservices**
 - 🎓 MS in Computer Science @ **University at Buffalo**, GPA: **4.0/4.0**
 - 🤖 Hands-on ML project work using **Python, TensorFlow, PyTorch, Kafka**
-- 🔍 Strong in **system design, API security, distributed systems, and CI/CD pipelines**
 - 🧠 Actively solving **LeetCode DSA problems** and contributing to open-source projects
+- - 🔍 Strong in **system design, API security, distributed systems, and CI/CD pipelines**
+
 
 ---
 
+<!--
 ### 📈 Career
 
 - 🏢 **LTIMindtree** | Software Engineer
@@ -258,6 +260,7 @@ Currently pursuing MS in Computer Science @ University at Buffalo. Passionate ab
   - Built ML & DS projects across NLP, CNNs, and risk prediction  
   - GPA: **4.0/4.0**
 
+-->
 ---
 
 ### 🛠 Tech Stack
