@@ -292,7 +292,7 @@ Currently pursuing MS in Computer Science @ University at Buffalo. Passionate ab
 - 🔗 [LinkedIn](https://linkedin.com/in/tharuntejamogili)
 - 💬 Email: tharun.mogili2025@gmail.com
 - 💻 [LeetCode](https://leetcode.com/Tharun256)
-- 🔗 [Portfolio]([https://...](https://github.com/Tharun2104))
+- 🔗 [Portfolio](https://github.com/Tharun2104)
 
 
 
