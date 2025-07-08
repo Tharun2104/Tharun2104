@@ -241,12 +241,12 @@ Currently pursuing MS in Computer Science @ University at Buffalo. Passionate ab
 
 ### 📈 Career
 
-- 🏢 **LTIMindtree** | Software Engineer (Dec 2022 – Jan 2024)  
+- 🏢 **LTIMindtree** | Software Engineer
   - Developed Spring Boot microservices and REST APIs for intelligent document processing (IDP)  
   - Built AWS-based pipeline using Textract, S3, Lambda—reduced manual effort by 60%, saving $500K/year  
   - Delivered a data validation framework and policy recommendation system to speed up claims processing 3x  
 
-- 🏢 **Larsen & Toubro Infotech (LTI)** | Software Engineer (Dec 2020 – Dec 2022)  
+- 🏢 **Larsen & Toubro Infotech (LTI)** | Software Engineer
   - Developed full-stack insurance modules using Java, Spring Boot, React.js, and MySQL  
   - Secured APIs using OAuth 2.0 & JWT, improving system reliability and reducing access issues  
   - Automated CI/CD pipeline using Jenkins, Selenium, and Azure Git—reduced deployment issues by 25%  
@@ -292,6 +292,8 @@ Currently pursuing MS in Computer Science @ University at Buffalo. Passionate ab
 - 🔗 [LinkedIn](https://linkedin.com/in/tharuntejamogili)
 - 💬 Email: tharun.mogili2025@gmail.com
 - 💻 [LeetCode](https://leetcode.com/Tharun256)
+- 🔗 Portfolio: [tharun.dev]([https://...](https://github.com/Tharun2104))
+
 
 
 *Thanks for visiting my profile! Let’s collaborate and build something impactful 🚀*
