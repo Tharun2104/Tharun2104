@@ -235,7 +235,7 @@ Currently pursuing MS in Computer Science @ University at Buffalo. Passionate ab
 - 🎓 MS in Computer Science @ **University at Buffalo**, GPA: **4.0/4.0**
 - 🤖 Hands-on ML project work using **Python, TensorFlow, PyTorch, Kafka**
 - 🧠 Actively solving **LeetCode DSA problems** and contributing to open-source projects
-- - 🔍 Strong in **system design, API security, distributed systems, and CI/CD pipelines**
+- 🔍 Strong in **system design, API security, distributed systems, and CI/CD pipelines**
 
 
 ---
