@@ -231,7 +231,7 @@ Currently pursuing MS in Computer Science @ University at Buffalo. Passionate ab
 
 ### 🚀 About Me
 
-- 👨‍💻 Software Engineer with 3+ years of experience building scalable backend and full-stack systems using **Java, Spring Boot, React, AWS, and Microservices**
+- 👨‍💻 Software Engineer with experience building scalable backend and full-stack systems using **Java, Spring Boot, React, AWS, and Microservices**
 - 🎓 MS in Computer Science @ **University at Buffalo**, GPA: **4.0/4.0**
 - 🤖 Hands-on ML project work using **Python, TensorFlow, PyTorch, Kafka**
 - 🧠 Actively solving **LeetCode DSA problems** and contributing to open-source projects
